@@ -1,2 +1,7 @@
-# numerologie
-Training on dev and unit test
+# Numérologie
+
+Voyez la vie en base 10 en associant un chiffre à votre prénom.
+
+## initialisation
+
+`npm run init`
